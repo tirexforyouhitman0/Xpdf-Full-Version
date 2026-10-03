@@ -214,4 +214,4 @@ This repository serves as the official landing page for Xpdf. The software is di
 **Get the most recent version of Xpdf today!**
 
 ---
-**Last updated:** 2026-10-03 17:46:05 UTC
+**Last updated:** 2026-10-03 20:36:25 UTC
